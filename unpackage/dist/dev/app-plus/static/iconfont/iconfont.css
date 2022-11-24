@@ -1,0 +1,181 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3183783 */
+  src: url('./iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-edit:before {
+  content: "\e66e";
+}
+
+.icon-harddisk:before {
+  content: "\e610";
+}
+
+.icon-order:before {
+  content: "\e70a";
+}
+
+.icon-playlist:before {
+  content: "\e7eb";
+}
+
+.icon-list:before {
+  content: "\e73b";
+}
+
+.icon-music:before {
+  content: "\e617";
+}
+
+.icon-search:before {
+  content: "\e66f";
+}
+
+.icon-female:before {
+  content: "\e71a";
+}
+
+.icon-keyboard:before {
+  content: "\e71b";
+}
+
+.icon-male:before {
+  content: "\e71c";
+}
+
+.icon-my:before {
+  content: "\e78b";
+}
+
+.icon-myfill:before {
+  content: "\e78c";
+}
+
+.icon-Pause:before {
+  content: "\e655";
+}
+
+.icon-Play:before {
+  content: "\e656";
+}
+
+.icon-random:before {
+  content: "\e66b";
+}
+
+.icon-listloop:before {
+  content: "\e66c";
+}
+
+.icon-singleloop:before {
+  content: "\e66d";
+}
+
+.icon-history:before {
+  content: "\e671";
+}
+
+.icon-add:before {
+  content: "\e677";
+}
+
+.icon-more:before {
+  content: "\e679";
+}
+
+.icon-cancel:before {
+  content: "\e67a";
+}
+
+.icon-close:before {
+  content: "\e67b";
+}
+
+.icon-skin:before {
+  content: "\e67f";
+}
+
+.icon-scan:before {
+  content: "\e68a";
+}
+
+.icon-delete:before {
+  content: "\e68b";
+}
+
+.icon-back:before {
+  content: "\e68c";
+}
+
+.icon-lock:before {
+  content: "\e699";
+}
+
+.icon-play:before {
+  content: "\e6a4";
+}
+
+.icon-pause:before {
+  content: "\e6a5";
+}
+
+.icon-presong:before {
+  content: "\e63c";
+}
+
+.icon-stop:before {
+  content: "\e63d";
+}
+
+.icon-nextsong:before {
+  content: "\e63e";
+}
+
+.icon-mute:before {
+  content: "\e640";
+}
+
+.icon-volume:before {
+  content: "\e641";
+}
+
+.icon-shoubi:before {
+  content: "\e665";
+}
+
+.icon-shangyibi:before {
+  content: "\e666";
+}
+
+.icon-xiayibi:before {
+  content: "\e667";
+}
+
+.icon-mobi:before {
+  content: "\e668";
+}
+
+.icon-upload:before {
+  content: "\e669";
+}
+
+.icon-download:before {
+  content: "\e66a";
+}
+
+.icon-heart_empty:before {
+  content: "\e69a";
+}
+
+.icon-heart_full:before {
+  content: "\e69b";
+}
+
